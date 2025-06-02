@@ -9,7 +9,7 @@ export default {
         offwhite: "#f8f4ec",
       },
       fontFamily: {
-        sans: ["Inter", "sans-serif"],
+        grotesk: ['"Space Grotesk"', "sans-serif"],
       },
     },
   },
